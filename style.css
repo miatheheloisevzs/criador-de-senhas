@@ -64,7 +64,7 @@ body{
 }
 
 /* textos força */
-.parametro-senha-textos{
+.parametro-senha__textos{
     display: flex;
     justify-content: space-between;
     margin-top: 8px;

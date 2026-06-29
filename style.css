@@ -129,3 +129,16 @@ body{
     height: 20px;
     cursor: pointer;
 }
+<div class="parametro-senha">
+    <h4 class="parametro-senha__titulo">Força da senha</h4>
+
+    <div class="barra">
+        <div class="forca fraca"></div>
+    </div>
+
+    <div class="parametro-senha-textos">
+        <p>Fraca</p>
+        <p>Média</p>
+        <p>Forte</p>
+    </div>
+</div>
